@@ -21,7 +21,9 @@ This is a simple Turtle Race game built using Python's `turtle` module. Players 
    ```bash
    git clone https://github.com/yourusername/turtle-race.git
 2. navigate to project directory
+   ```bash
    cd turtle-race
-3. Run the game
+4. Run the game
+   ```bash
    python turtle_race.py
   
